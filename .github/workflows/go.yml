@@ -28,4 +28,4 @@ jobs:
       run: |
         ls -AlF
         pwd
-        ./test_go
+        ./go_test
