@@ -26,6 +26,6 @@ jobs:
 
     - name: Run
       run: |
-        ls -AlF \
-        pwd \
+        ls -AlF
+        pwd
         .\test_go
