@@ -1,12 +1,20 @@
 package main
 
 import (
-	"fmt" 
-	"math/rand"
-	"github.com/kodxxl/modforimport/pack1"
+	"net/http"
+	
+	"github.com/labstack/echo/v4"
 )
 
 func main() {
-	pack1.Add(1, 2)
-	fmt.Println("My favorite number is", pack1.Add(rand.Intn(10),rand.Intn(10)) )
+	e := echo.New()
+	e.Static("/static", "static")
+	e.GET("/", func(c echo.Context) error {
+		return c.String(http.StatusOK, "Hello, World!")
+	})
+	e.GET("/mars/:id", func(c echo.Context) error {
+		id := c.Param("id")
+		return c.String(http.StatusOK, "<button type=\"button\">Click Me!</button> Hello, " + id + " !")
+	})
+	e.Logger.Fatal(e.Start(":1323"))
 }
