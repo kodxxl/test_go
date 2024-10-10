@@ -4,7 +4,7 @@ go 1.23.2
 
 require (
 	github.com/go-chi/chi/v5 v5.1.0 // indirect
-	github.com/kodxxl/modforimport v1.2.1 // indirect
+	github.com/kodxxl/modforimport v1.2.2 // indirect
 	github.com/labstack/echo/v4 v4.12.0 // indirect
 	github.com/labstack/gommon v0.4.2 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect

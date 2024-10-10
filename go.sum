@@ -4,6 +4,8 @@ github.com/kodxxl/modforimport v0.0.0-20241004104213-2b33e65f7cb4 h1:SvqB1PpVfSU
 github.com/kodxxl/modforimport v0.0.0-20241004104213-2b33e65f7cb4/go.mod h1:s/74bg1OHXc9g9sW9O2FlfPYWa5ByJL2AEZA5XYktYs=
 github.com/kodxxl/modforimport v1.2.1 h1:IWr81CBA87zsm11LBuiUS4azfYiu/SJwrs2UVBcV3UI=
 github.com/kodxxl/modforimport v1.2.1/go.mod h1:s/74bg1OHXc9g9sW9O2FlfPYWa5ByJL2AEZA5XYktYs=
+github.com/kodxxl/modforimport v1.2.2 h1:BgpghRRa3VO2O7odevFHZXD8WcbhrVpdUUc6WY7NNzI=
+github.com/kodxxl/modforimport v1.2.2/go.mod h1:s/74bg1OHXc9g9sW9O2FlfPYWa5ByJL2AEZA5XYktYs=
 github.com/labstack/echo/v4 v4.12.0 h1:IKpw49IMryVB2p1a4dzwlhP1O2Tf2E0Ir/450lH+kI0=
 github.com/labstack/echo/v4 v4.12.0/go.mod h1:UP9Cr2DJXbOK3Kr9ONYzNowSh7HP0aG0ShAyycHSJvM=
 github.com/labstack/gommon v0.4.2 h1:F8qTUNXgG1+6WQmqoUWnz8WiEU60mXVVw0P4ht1WRA0=
