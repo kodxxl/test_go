@@ -14,7 +14,7 @@ func main() {
 	})
 	e.GET("/mars/:id", func(c echo.Context) error {
 		id := c.Param("id")
-		return c.String(http.StatusOK, "<button type=\"button\">Click Me!</button> Hello, " + id + " !")
+		return c.String(http.StatusOK, "Hello, " + id + " !")
 	})
 	e.Logger.Fatal(e.Start(":1323"))
 }
