@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	pack1.nop()
-	pack2.nop()
+	pack1.Nop()
+	pack2.Nop()
 }

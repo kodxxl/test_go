@@ -6,3 +6,13 @@ github.com/kodxxl/modforimport v1.2.3-0.20241010052350-e4e4ca2d6666 h1:ojTzlmIkD
 github.com/kodxxl/modforimport v1.2.3-0.20241010052350-e4e4ca2d6666/go.mod h1:s/74bg1OHXc9g9sW9O2FlfPYWa5ByJL2AEZA5XYktYs=
 github.com/kodxxl/modforimport v1.2.4 h1:5rg7c+eW9CYOcEWGGyIG2EktySdIvnjsVP8w1RCRGVA=
 github.com/kodxxl/modforimport v1.2.4/go.mod h1:s/74bg1OHXc9g9sW9O2FlfPYWa5ByJL2AEZA5XYktYs=
+github.com/kodxxl/modforimport v1.2.5-0.20241010054948-7ba4136e7189 h1:SZD/pS4U/Q4/nMwxkaHijJnFKYAhAHzZ8zBxs4nkQOM=
+github.com/kodxxl/modforimport v1.2.5-0.20241010054948-7ba4136e7189/go.mod h1:s/74bg1OHXc9g9sW9O2FlfPYWa5ByJL2AEZA5XYktYs=
+github.com/kodxxl/modforimport v1.2.5-0.20241010055336-9cf3f619a8ac h1:uT8bE1fRZAGJ7MCq3Jbmq7wqyq/ubiOoMcx+XboktbA=
+github.com/kodxxl/modforimport v1.2.5-0.20241010055336-9cf3f619a8ac/go.mod h1:s/74bg1OHXc9g9sW9O2FlfPYWa5ByJL2AEZA5XYktYs=
+github.com/kodxxl/modforimport v1.2.5-0.20241010060252-c4f8efead42e h1:Z2lZxN0OzeMaIZnxYRsi4Rm6L/t5ySfS+1Ey3gneL9Y=
+github.com/kodxxl/modforimport v1.2.5-0.20241010060252-c4f8efead42e/go.mod h1:s/74bg1OHXc9g9sW9O2FlfPYWa5ByJL2AEZA5XYktYs=
+github.com/kodxxl/modforimport v1.2.5-0.20241010060619-8aca47ca0532 h1:ta3aD/buoW4rUvNVpynOjvt2E13uZdSCnrf+e4tRTy8=
+github.com/kodxxl/modforimport v1.2.5-0.20241010060619-8aca47ca0532/go.mod h1:s/74bg1OHXc9g9sW9O2FlfPYWa5ByJL2AEZA5XYktYs=
+github.com/kodxxl/modforimport v1.2.5-0.20241010061644-cf8b46547102 h1:di3/pZ+8zeZhnaNavBBdDxvAkchNsL8liBoFr7b+c7k=
+github.com/kodxxl/modforimport v1.2.5-0.20241010061644-cf8b46547102/go.mod h1:s/74bg1OHXc9g9sW9O2FlfPYWa5ByJL2AEZA5XYktYs=
